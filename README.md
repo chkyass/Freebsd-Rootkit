@@ -1,5 +1,5 @@
 # Freebsd-Rootkit
-The rootkit works on any recent version of freeBSD. At the system level, the rootkit is a kernel module. It works by hooking functions, replacing syscalls and dynamically patching kernel structures
+The rootkit works on any recent versions of freeBSD. At the system level, the rootkit is a kernel module. It works by hooking functions, replacing syscalls and dynamically patching kernel structures
 
 ## Functionalities
 - Persitence: the rootkit is launched at every reboot of the system
